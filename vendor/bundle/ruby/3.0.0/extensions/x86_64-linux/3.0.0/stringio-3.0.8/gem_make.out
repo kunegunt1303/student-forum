@@ -1,0 +1,15 @@
+current directory: /home/kings/student_forum/vendor/bundle/ruby/3.0.0/gems/stringio-3.0.8/ext/stringio
+/home/kings/.asdf/installs/ruby/3.0.0/bin/ruby -I /home/kings/.asdf/installs/ruby/3.0.0/lib/ruby/3.0.0 -r ./siteconf20231026-23161-e7j5l4.rb extconf.rb
+creating Makefile
+
+current directory: /home/kings/student_forum/vendor/bundle/ruby/3.0.0/gems/stringio-3.0.8/ext/stringio
+make "DESTDIR=" clean
+
+current directory: /home/kings/student_forum/vendor/bundle/ruby/3.0.0/gems/stringio-3.0.8/ext/stringio
+make "DESTDIR="
+compiling stringio.c
+linking shared-object stringio.so
+
+current directory: /home/kings/student_forum/vendor/bundle/ruby/3.0.0/gems/stringio-3.0.8/ext/stringio
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 stringio.so ./.gem.20231026-23161-xa6alp
